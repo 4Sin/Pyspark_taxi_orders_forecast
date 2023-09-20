@@ -28,8 +28,9 @@
 ### Навыки и инструменты
 ------------------
     * Python
-    * PySpark
-    * Seaborn
+    * Apache Spark
+    * Time Series
     * FB Prophet
+    * ML Linear Regression
 ------------------    
 
